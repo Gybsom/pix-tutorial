@@ -9,3 +9,7 @@ A PIX payment can be initiated in 3 different ways:
 -   Using a key
 -   Using bank details
 -   Using a QR Code
+
+
+
+Go to [Key types](https://github.com/Gybsom/pix-tutorial/blob/main/docs/key-types.md)
